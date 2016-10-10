@@ -2,7 +2,7 @@
 
 Given an undirected graph and a cost for each edge of the graph we compute the minimum cost tree that spans all vertices by using a greedy approach.
 
-Runs in O(m*n) time - though better implementations could get a better running time (of m*logn) by using heaps (priority queues) to minimize the number of searches for the minimum edge
+Runs in O(mn) time - though better implementations could get a better running time (of mlogn) by using heaps (priority queues) to minimize the number of searches for the minimum edge
 
 # Input
 
